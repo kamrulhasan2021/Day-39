@@ -60,6 +60,34 @@
     .service-title p {
         font-size: 28px;
     }
+    .member-bio h4 {
+        font-size: 20px;    
+    }
+    .member-bio p {
+        font-size: 18px;
+    }
+    .service-title h2 {
+        font-size: 45px;
+        
+    }
+    .service-title.newslatter-title p {
+        margin-bottom: 30px;
+        font-size: 25px;
+    }
+    .service-title.newslatter-title h2 {
+        font-size: 35px;
+        margin-bottom: 50px;
+    }
+    .t-user-bio h2 {
+        font-size: 14px;
+    }
+    .t-user-bio span {
+        font-size: 16px;
+    }
+    .t-content p {
+        font-size: 18px;
+       
+    }
 }
 @media (max-width:992px) {
     .logo img {
@@ -124,6 +152,62 @@
     .default-btn {
         font-size: 16px;
     }
+    .service-title h2 {
+        font-size: 40px;
+    }
+    .member-bio h4 {
+        font-size: 15px;
+    }
+    .member-bio p {
+        font-size: 16px;
+    }
+    .team-section {
+        padding: 30px 0;
+    }
+    .service-title.newslatter-title h2 {
+        font-size: 38px;
+    }
+    .default-input {
+        width: 310px;
+        padding: 15px 16px;  
+        font-size: 22px;
+    }
+    .submit-btn {
+        padding: 13px 50px;
+        font-size: 22px;    
+    }
+    .bt-left h2 {
+        font-size: 40px;
+       
+    }
+    .bt-right p {
+        font-size: 22px;
+    }
+    .bc-left img {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .bc-left-content h3 {
+        font-size: 18px;
+        margin-bottom: 10px;
+       
+    }
+    .bc-left-content p {
+        font-size: 13px;
+    }
+    .service-title.newslatter-title p {
+        font-size: 20px;
+    }
+    .service-title.newslatter-title h2 {
+        font-size: 24px;
+    }
+    .t-item {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .testimonial-section {
+        padding: 30px;
+    }
 }
 
 @media (max-width:768px) {
@@ -171,10 +255,58 @@
     .service-title p {
         font-size: 14px;
     }
-    
-   
+    .member {
+        width: 48%;
+        margin-right: 2%;
+      
+        margin-bottom: 30px;
+    }
+    .default-input {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .service-title.newslatter-title p {
+        margin-bottom: 30px;
+        font-size: 20px;
+    }
+    .service-title.newslatter-title h2 {
+        font-size: 38px;
+        margin-bottom: 30px;
+    }
+    .newslatter-section {
+        padding: 35px 0;
+    }
+    .bt-left {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .bt-right {
+        width: 100%;
+    }
+    .bc-left {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .service-title.newslatter-title h2 {
+        font-size: 25px;
+    }
 }
-
+@media (max-width:576px) {
+    .member {
+        width: 100%;
+        margin-right: 2%;
+        margin-bottom: 30px;
+    }
+    .service-title h2 {
+        font-size: 19px;
+    }
+    .bt-left h2 {
+        font-size: 25px;
+    }
+    .bt-right p {
+        font-size: 17px;
+    }
+}
 @media (max-width:400px) {
     .banner-text h3 {
         font-size: 18px;
@@ -189,4 +321,14 @@
         margin-bottom: 20px;
         font-size: 20px;
     }
+    .service-title h2 {
+        font-size: 16px;
+    }
+    .bt-left h2 {
+        font-size: 15px;
+    }
+    .bt-right p {
+        font-size: 14px;
+    }
+ 
 }
